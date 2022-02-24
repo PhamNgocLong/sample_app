@@ -5,4 +5,8 @@ class ApplicationController < ActionController::Base
   def func2
 	p "func2"
   end
+  
+  def func1
+	p "func1"
+  end
 end
